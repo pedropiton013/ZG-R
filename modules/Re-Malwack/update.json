@@ -3,20 +3,20 @@
   "timestamp": 1734878287.0,
   "versions": [
     {
-      "timestamp": 1734878287.0,
-      "version": "v5.3.0",
-      "versionCode": 530,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v5.3.0_530.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v5.3.0_530.md",
-      "size": 47546
+      "timestamp": 1774800986.0,
+      "version": "v8.1",
+      "versionCode": 810,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v8.1_810.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v8.1_810.md",
+      "size": 2843157
     },
     {
-      "timestamp": 1743478933.0,
-      "version": "v6.0",
-      "versionCode": 600,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v6.0_600.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v6.0_600.md",
-      "size": 1759912
+      "timestamp": 1775066616.0,
+      "version": "v8.2",
+      "versionCode": 820,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v8.2_820.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v8.2_820.md",
+      "size": 2843070
     }
   ]
 }

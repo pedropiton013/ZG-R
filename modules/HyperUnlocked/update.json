@@ -1,0 +1,22 @@
+{
+  "id": "HyperUnlocked",
+  "timestamp": 1763801319.0,
+  "versions": [
+    {
+      "timestamp": 1773862662.0,
+      "version": "v2.1.4",
+      "versionCode": 214,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.4_214.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.4_214.md",
+      "size": 47570
+    },
+    {
+      "timestamp": 1774001196.0,
+      "version": "v2.1.5",
+      "versionCode": 215,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.5_215.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.5_215.md",
+      "size": 47577
+    }
+  ]
+}

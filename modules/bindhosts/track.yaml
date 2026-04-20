@@ -1,8 +1,3 @@
-id: bindhosts
-enable: true
-verified: true
-update_to: https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/update.json
-source: https://github.com/bindhosts/bindhosts
 categories:
 - System
 - Magisk
@@ -11,6 +6,11 @@ categories:
 - WebUI
 - Adblocking and Hosts Files
 - Ad-Block
-added: 1733301165
-last_update: 1748680302.0
+enable: true
+id: bindhosts
+last_update: 1775012009.0
+license: WTFPL
+source: https://github.com/bindhosts/bindhosts
+update_to: https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/update.json
+verified: true
 versions: 2

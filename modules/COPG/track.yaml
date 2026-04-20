@@ -1,9 +1,11 @@
-id: COPG
+cover: https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/banner.png
 enable: true
-verified: true
-update_to: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/update.json
+icon: https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/icon.png
+id: COPG
+last_update: 1767188422.0
+readme: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/README.md
 source: https://github.com/AlirezaParsi/COPG
 support: https://github.com/AlirezaParsi/COPG/issues
-readme: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/README.md
-last_update: 1747121683.0
+update_to: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/update.json
+verified: true
 versions: 2

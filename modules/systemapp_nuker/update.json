@@ -3,20 +3,20 @@
   "timestamp": 1746679502.0,
   "versions": [
     {
-      "timestamp": 1746679502.0,
-      "version": "v1.1.5",
-      "versionCode": 115,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.5_115.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.5_115.md",
-      "size": 1242775
+      "timestamp": 1760293772.0,
+      "version": "v1.1.9",
+      "versionCode": 119,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.9_119.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.9_119.md",
+      "size": 1213816
     },
     {
-      "timestamp": 1749311876.0,
-      "version": "v1.1.6",
-      "versionCode": 116,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.6_116.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.6_116.md",
-      "size": 1241724
+      "timestamp": 1776079892.0,
+      "version": "v1.2.0",
+      "versionCode": 120,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.2.0_120.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.2.0_120.md",
+      "size": 1215189
     }
   ]
 }
